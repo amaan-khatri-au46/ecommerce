@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "webpack-dev-server --watch-content-base --open",
+    "build" : "npm i" ,
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Amaan & Adnan",
