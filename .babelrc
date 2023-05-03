@@ -1,0 +1,15 @@
+// the format of this file is json 
+//this is the setting for using babel in our project 
+
+{
+    "presets": [
+        [
+            "@babel/preset-env",
+            {
+                "targets":{
+                    "node":"current"
+                }
+            }
+        ]
+    ]
+}
